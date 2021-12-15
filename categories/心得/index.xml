@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on Sky</title>
+    <link>https://skycykuo.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on Sky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 15:52:47 +0800</lastBuildDate><atom:link href="https://skycykuo.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First test</title>
+      <link>https://skycykuo.github.io/blog/test/</link>
+      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/test/</guid>
+      <description>   for i in range(1,10): print(&amp;#34;Hello~&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
