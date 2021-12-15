@@ -6,58 +6,31 @@
     <description>Recent content in Tags on Sky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 15:52:47 +0800</lastBuildDate><atom:link href="https://skycykuo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>T</title>
-      <link>https://skycykuo.github.io/tags/t/</link>
-      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
-      
-      <guid>https://skycykuo.github.io/tags/t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://skycykuo.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skycykuo.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://skycykuo.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skycykuo.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://skycykuo.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skycykuo.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://skycykuo.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skycykuo.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 15 Dec 2021 21:00:47 +0800</lastBuildDate><atom:link href="https://skycykuo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
       <link>https://skycykuo.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Wed, 15 Dec 2021 21:00:47 +0800</pubDate>
       
       <guid>https://skycykuo.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://skycykuo.github.io/tags/love/</link>
+      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://skycykuo.github.io/tags/markdown/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://skycykuo.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     

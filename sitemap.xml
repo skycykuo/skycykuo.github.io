@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://skycykuo.github.io/categories/</loc>
-    <lastmod>2021-12-15T15:52:47+08:00</lastmod>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
   </url><url>
-    <loc>https://skycykuo.github.io/blog/test/</loc>
-    <lastmod>2021-12-15T15:52:47+08:00</lastmod>
+    <loc>https://skycykuo.github.io/categories/code/</loc>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
+  </url><url>
+    <loc>https://skycykuo.github.io/tags/python/</loc>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
+  </url><url>
+    <loc>https://skycykuo.github.io/blog/pythonl1/</loc>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
   </url><url>
     <loc>https://skycykuo.github.io/</loc>
-    <lastmod>2021-12-15T15:52:47+08:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/tags/t/</loc>
-    <lastmod>2021-12-15T15:52:47+08:00</lastmod>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
   </url><url>
     <loc>https://skycykuo.github.io/tags/</loc>
+    <lastmod>2021-12-15T21:00:47+08:00</lastmod>
+  </url><url>
+    <loc>https://skycykuo.github.io/blog/pythonl2/</loc>
+    <lastmod>2021-12-15T20:40:47+08:00</lastmod>
+  </url><url>
+    <loc>https://skycykuo.github.io/tags/love/</loc>
     <lastmod>2021-12-15T15:52:47+08:00</lastmod>
   </url><url>
-    <loc>https://skycykuo.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://skycykuo.github.io/categories/music/</loc>
+    <lastmod>2021-12-15T15:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://skycykuo.github.io/blog/relaxing_music/</loc>
     <lastmod>2021-12-15T15:52:47+08:00</lastmod>
   </url><url>
     <loc>https://skycykuo.github.io/about/</loc>
@@ -32,25 +44,10 @@
     <loc>https://skycykuo.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://skycykuo.github.io/tags/game/</loc>
+    <loc>https://skycykuo.github.io/tags/markdown/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://skycykuo.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://skycykuo.github.io/tags/python/</loc>
+    <loc>https://skycykuo.github.io/blog/markdownl/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>

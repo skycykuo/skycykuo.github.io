@@ -8,20 +8,40 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://skycykuo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First test</title>
-      <link>https://skycykuo.github.io/blog/test/</link>
-      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
+      <title>Python入門</title>
+      <link>https://skycykuo.github.io/blog/pythonl1/</link>
+      <pubDate>Wed, 15 Dec 2021 21:00:47 +0800</pubDate>
       
-      <guid>https://skycykuo.github.io/blog/test/</guid>
-      <description>   for i in range(1,10): print(&amp;#34;Hello~&amp;#34;) </description>
+      <guid>https://skycykuo.github.io/blog/pythonl1/</guid>
+      <description>Python 程序的執行方式 交互式 在命令行輸入指令，回車即可得到結果。   打開終端
+  進入交互式：python3</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://skycykuo.github.io/blog/post-13/</link>
+      <title>Python Variable</title>
+      <link>https://skycykuo.github.io/blog/pythonl2/</link>
+      <pubDate>Wed, 15 Dec 2021 20:40:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/pythonl2/</guid>
+      <description>變量   定義：關聯一個對象的標識符。
+  命名：必須是字母或下劃線開頭，後跟字母、數字、下劃線。 不能使用關鍵字(藍色)，否則發生語法錯誤：SyntaxError: invalid syntax。</description>
+    </item>
+    
+    <item>
+      <title>Relaxing</title>
+      <link>https://skycykuo.github.io/blog/relaxing_music/</link>
+      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/relaxing_music/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Markdown Learning</title>
+      <link>https://skycykuo.github.io/blog/markdownl/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://skycykuo.github.io/blog/post-13/</guid>
+      <guid>https://skycykuo.github.io/blog/markdownl/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     

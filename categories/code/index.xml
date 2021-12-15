@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sky</title>
-    <link>https://skycykuo.github.io/</link>
-    <description>Recent content on Sky</description>
+    <title>code on Sky</title>
+    <link>https://skycykuo.github.io/categories/code/</link>
+    <description>Recent content in code on Sky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 21:00:47 +0800</lastBuildDate><atom:link href="https://skycykuo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 21:00:47 +0800</lastBuildDate><atom:link href="https://skycykuo.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python入門</title>
       <link>https://skycykuo.github.io/blog/pythonl1/</link>
@@ -25,15 +25,6 @@
       <guid>https://skycykuo.github.io/blog/pythonl2/</guid>
       <description>變量   定義：關聯一個對象的標識符。
   命名：必須是字母或下劃線開頭，後跟字母、數字、下劃線。 不能使用關鍵字(藍色)，否則發生語法錯誤：SyntaxError: invalid syntax。</description>
-    </item>
-    
-    <item>
-      <title>Relaxing</title>
-      <link>https://skycykuo.github.io/blog/relaxing_music/</link>
-      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
-      
-      <guid>https://skycykuo.github.io/blog/relaxing_music/</guid>
-      <description>   </description>
     </item>
     
     <item>
