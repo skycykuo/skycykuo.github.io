@@ -28,9 +28,45 @@
     </item>
     
     <item>
+      <title>Python Data Type</title>
+      <link>https://skycykuo.github.io/blog/pythonl3/</link>
+      <pubDate>Wed, 15 Dec 2021 19:40:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/pythonl3/</guid>
+      <description>核心數據類型 1. 在 python 中變量沒有類型，但關聯的對象有類型。 2. 通過 type 函數可查看。  空值對象 None 1.</description>
+    </item>
+    
+    <item>
+      <title>Python Operators</title>
+      <link>https://skycykuo.github.io/blog/pythonl4/</link>
+      <pubDate>Wed, 15 Dec 2021 18:40:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/pythonl4/</guid>
+      <description>運算符 算術運算符 + 加法 - 減法 * 乘法 / 除法：結果為浮點數 // 地板除：除的結果去掉小數部分 % 求余 ** 冪運算  優先級從高到低： () ** * / % // + -  增強運算符 y += x 等同於 y=y+x y -= x 等同於 y=y-x y *= x 等同於 y=y*x y /= x 等同於 y=y/x y //= x 等同於 y=y//x y %= x 等同於 y=y%x y **= x 等同於 y=y**x  # 1.</description>
+    </item>
+    
+    <item>
+      <title>Python Condition Statements</title>
+      <link>https://skycykuo.github.io/blog/pythonl5/</link>
+      <pubDate>Wed, 15 Dec 2021 15:40:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/pythonl5/</guid>
+      <description>行 1. 物理行：程序員編寫代碼的行。 2. 邏輯行：python 解釋器需要執行的指令。 3. 建議一個邏輯行在一個物理行上。 4. 如果一個物理行中使用多個邏輯行，需要使用分號；隔開。 5.</description>
+    </item>
+    
+    <item>
+      <title>Python Loop Statements</title>
+      <link>https://skycykuo.github.io/blog/pythonl6/</link>
+      <pubDate>Wed, 15 Dec 2021 14:40:47 +0800</pubDate>
+      
+      <guid>https://skycykuo.github.io/blog/pythonl6/</guid>
+      <description>while語句 1.作用: 可以讓一段代碼滿足條件，重覆執行。 2.語法: while 條件: 滿足條件執行的語句 else: 不滿足條件執行的語句 3.說明: else子句可以省略。 在循環體內用break終止循環時,else子句不執行。  跳轉語句 break 語句 1.</description>
+    </item>
+    
+    <item>
       <title>Relaxing</title>
       <link>https://skycykuo.github.io/blog/relaxing_music/</link>
-      <pubDate>Wed, 15 Dec 2021 15:52:47 +0800</pubDate>
+      <pubDate>Wed, 15 Dec 2021 10:52:47 +0800</pubDate>
       
       <guid>https://skycykuo.github.io/blog/relaxing_music/</guid>
       <description>   </description>
